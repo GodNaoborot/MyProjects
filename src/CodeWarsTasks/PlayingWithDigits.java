@@ -23,6 +23,8 @@ public class PlayingWithDigits {
 
     public static void main(String[] args) {
         System.out.println(digPow(46288, 3));
+        System.out.println();
+        System.out.println();
     }
 
 }
